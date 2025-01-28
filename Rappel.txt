@@ -1,0 +1,9 @@
+Page d'accueil
+    && Page de connexion
+        - Page de création de compte
+    || Page de compte
+        - Page de paramètre
+    - Page de découverte
+        - Page de profil
+    - Page de recherche
+        - Page de profil
